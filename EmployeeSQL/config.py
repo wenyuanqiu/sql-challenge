@@ -1,0 +1,2 @@
+databasename = 'SQLHomework'
+password = 'postgres'
